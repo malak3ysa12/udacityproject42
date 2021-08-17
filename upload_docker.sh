@@ -6,7 +6,7 @@
 # Step 1:
 # Create dockerpath
 # dockerpath=<your docker ID/path>
-dockerpath=malak3ysa/udacitiproject04
+dockerpath=malak3ysa/udacitiproject42
 
 # Step 2:  
 # Authenticate & tag
