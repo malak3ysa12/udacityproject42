@@ -12,8 +12,8 @@ dockerpath=malak3ysa/udacitiproject04
 # Authenticate & tag
 echo "Docker ID and Image: $dockerpath"
 docker login 
-docker image tag nanodegree4 $dockerpath
+docker image tag  $dockerpath:1.0
 
 # Step 3:
 # Push image to a docker repository
-docker image push $dockerpath
+docker image push $dockerpath:1.0
